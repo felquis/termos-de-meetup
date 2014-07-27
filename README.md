@@ -18,9 +18,9 @@ Isso é muito importante, ambos devem ser usados.
 #5 Respeito mutuo durante o meetup
 O Meetup é para todos os públicos, se você tem dificuldade em aceitar a diversidade da nossa sociedade, acho melhor ficar sozinho em casa.
 
-	Será entendido como assédio: Comentários verbais ofensivos relacionados com sexo, idade, orientação sexual, deficiência, aparência física, tamanho, raça, religião, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, assédio fotográfico, interrupção de palestra ou de alguma outra ação, contato físico inapropriado, e atenção sexual indesejada.
+> Será entendido como assédio: Comentários verbais ofensivos relacionados com sexo, idade, orientação sexual, deficiência, aparência física, tamanho, raça, religião, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, assédio fotográfico, interrupção de palestra ou de alguma outra ação, contato físico inapropriado, e atenção sexual indesejada.
 
-	Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
+> Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
 
 # No dia, traga a sua bebida e compartilhe-a (opcional dependendo do local do meetup)
 Pode trazer o que quiser, cerveja, red bull, frango assado etc... Mas lembre-se que o que tu trazer pertencerá a todos no local!
