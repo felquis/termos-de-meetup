@@ -23,4 +23,4 @@ Isso é muito importante, ambos devem ser usados.
 
 ---
 
-Veja explicações e origem deste documento na sessão "Contribuições e informações"
+Veja explicações e origem deste documento na sessão ["Contribuições e informações"](README.md#contribui%C3%A7%C3%B5es-e-informa%C3%A7%C3%B5es)

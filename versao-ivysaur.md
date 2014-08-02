@@ -26,4 +26,4 @@ A partir do momento que você chega com uma bebida no meetup, a bebida pertence 
 
 ---
 
-Veja explicações e origem deste documento na sessão "Contribuições e informações"
+Veja explicações e origem deste documento na sessão ["Contribuições e informações"](README.md#contribui%C3%A7%C3%B5es-e-informa%C3%A7%C3%B5es)
