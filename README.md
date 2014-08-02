@@ -1,33 +1,25 @@
-Meetup Código de Conduta
-====================
+Termos de participação de meetups
+=================================
 
-Regras servem para botar ordem na casa, organizar as coisas e evitar dor de cabeça, siga estas regras para aproveitar ao máximo o meetup e para não ser um idiota.
+Estes documentos foram criados para organizadores de meetups em qualquer região que querem uma forma de informar aos participantes o que é legal e o que não é legal de fazer no meetup.
 
-#1 Encontre seus amigos e se divirta
-A idea é que você conheça pessoas, tenha um bom momento com seus amigos, tome uma breja/refri, troque uma ideia sobre aquela tecnologia, aproveite!
+Regras servem para botar ordem na casa, organizar as coisas e evitar dor de cabeça, a intenção destes termos é estimular o máximo aproveitamento do meetup entre os participantes, dar dicas para ninguém prejudicar a experiência de ninguém, e evitar dores de cabeça. Muitas coisas podem parecer obvias, e outras nenhum pouco obvias, mas nem tudo que é obvio para você é obvio para as outras pessoas, então é melhor informa-las, este é o ponto.
 
-#2 Vamos sentar e falar sério
-O meetup é uma via de mão dupla, informação vai e informação vem. Se você sabe de algo, fale, FAÇA! O meetup é feito por cada um dos participantes, faça sua parte e não fique quieto.
+Note que alguns dos tópicos abordados em determinados documentos, são reaproveitados em outros documentos.
 
-#3 Vamos eternizar a sabedoria
-Do que vale um meetup, uma conferência se não podemos consultar depois? Fica tudo na nossa mente e anotações e isso não é o suficiente. Por isso em cada meetup que fizermos vamos dar um post sobre o assunto para a comunidade. Um post sem autor específico, onde todos os que contribuírem no GitHub serão autores de uma parte do post. Seja <i>linkando</i> um demo, traduzindo para o Inglês, corrigindo erros de português, etc...
+## Lista de termos
 
-#4 Traga seu notebook e seu cérebro
-Isso é muito importante, ambos devem ser usados.
+#### [Bulbasaur](versao-bulbasaur.md)
+1. Respeito mutuo durante o meetup
+1. Encontre seus amigos e se divirta
+1. Aprenda e compartilhe o máximo que você puder
+1. Traga seu notebook e seu cérebro
 
-#5 Respeito mutuo durante o meetup
-O Meetup é para todos os públicos, se você tem dificuldade em aceitar a diversidade da nossa sociedade, acho melhor ficar sozinho em casa.
+## Como utilizar
+Na descrição/site de seu meetup, coloque um link para uma das versões dos termos que corresponda ao seu meetup, e diga que a participação no meetup está sujeita a aceitação destes termos/regras.
 
-> Será entendido como assédio: Comentários verbais ofensivos relacionados com sexo, idade, orientação sexual, deficiência, aparência física, tamanho, raça, religião, imagens sexuais em espaços públicos, intimidação deliberada, perseguição, assédio fotográfico, interrupção de palestra ou de alguma outra ação, contato físico inapropriado, e atenção sexual indesejada.
+## Contribuições e informações
 
-> Os participantes que forem advertidos por qualquer comportamento de assédio devem parar imediatamente.
-
-# No dia, traga a sua bebida e compartilhe-a (opcional dependendo do local do meetup)
-Pode trazer o que quiser, cerveja, red bull, frango assado, etc... Mas lembre-se que o que tu trazer pertencerá a todos no local!
-
-# Se você faltar será penalizado
-Se faltar você estará proibido de participar dos próximos 3 meetups (isso mesmo), se confirmou presença é melhor aparecer. E se não puder vir, o melhor a fazer é mudar o RSVP para NÃO, procure avisar de alguma forma e passar seu lugar para outra pessoa interessada.
-
-Este documento está sendo escrito para servir como código de conduta de meetups informais focados em disseminar tecnologia e desenvolvimento de software, meetups entre 5 a 20 pessoas em locais públicos ou privados moderados pelo anfitrião do meetup. Foi escrito inspirado no [Conf Code Of Conduct](http://confcodeofconduct.com/)
+Todos estes documentos são escritos para servir como um "Termos de participação", "Regras" ou "Código de conduta" durante a realização de meetups informais com o intuito de disseminação de tecnologias ou não, todos foram escritos com base no [Conf Code Of Conduct](http://confcodeofconduct.com/), caso seu evento seja grande, recomendamos o uso do Conf Code Of Conduct
 
 Este documento pode ser alterado a qualquer momento, caso tenha alguma sugestão de melhoria, envie um pull request ou [crie uma issue](https://github.com/felquis/meetup-codigo-de-conduta/issues/new).
