@@ -15,6 +15,13 @@ Note que alguns dos tópicos abordados em determinados documentos, são reaprove
 1. Aprenda e compartilhe o máximo que você puder
 1. Traga seu notebook e seu cérebro
 
+#### [Ivysaur](versao-ivysaur.md)
+1. Respeito mutuo durante o meetup
+1. Encontre seus amigos e se divirta
+1. Aprenda e compartilhe o máximo que você puder
+1. Traga seu notebook e seu cérebro
+1. Traga a sua bebida e compartilhe-a
+
 ## Como utilizar
 Na descrição/site de seu meetup, coloque um link para uma das versões dos termos que corresponda ao seu meetup, e diga que a participação no meetup está sujeita a aceitação destes termos/regras.
 
